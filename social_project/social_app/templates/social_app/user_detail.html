@@ -12,4 +12,6 @@
     <p>Age {{ user.age }}</p>
     <a href="{% url 'user_posts' username=user.username %}">View {{ user.username }}'s Posts</a>
     <p><a href="{% url 'user_list' %}">Go back to user list</a></p>
-    {% endblock %}
+    <a href="{% url 'create_post' username=user.username %}">Create post</a>
+    <a href="{% url 'update_user' username=user.username %}">| Update user profile</a>
+    {% endblock %} user_detail.html
