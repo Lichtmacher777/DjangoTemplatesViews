@@ -1,22 +1,35 @@
 {% load static %}
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="{% static 'social_app/styles.css' %}">
-
     <title>Document</title>
 </head>
+
 <body>
-    <header>Welcome to our app feel free to post anything</header>
-    <button><a href="{% url  'home' %}">home</a></button>
+    <header>
+        Welcome to our app! Feel free to post anything. 📝
+        <p>
+            <button><a href="{% url 'home' %}">Home 🏡</a></button>
+
+            {% if user.is_authenticated %}
+                <button><a href="{% url 'logout' %}">Logout</a></button>
+            {% else %}
+                <button><a href="{% url 'login' %}">Login</a></button>                
+            {% endif %}
+        </p>
+    </header>
+
     {% block content %}
 
     {% endblock %}
-    <footer>
-        <!-- Add your footer content here -->
+    
+    <footer>       
         <p>&copy; 2023 Social App</p>
     </footer>
 </body>
+
 </html>

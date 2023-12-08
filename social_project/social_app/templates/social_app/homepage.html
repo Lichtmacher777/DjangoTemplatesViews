@@ -1,22 +1,25 @@
 {% extends 'social_app/base.html' %}
-{% load static %}
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="{% static 'social_app/styles.css' %}">
-
+    
     <title>Homepage</title>
 </head>
+
 <body>
     {% block content %}
-<h1>Finally it's week</h1>
+    <h1>Finally Learning Django!!! 💥💥💥</h1>
+    <p>
+        <button><a href="{% url  'user_list' %}">Users 👥</a></button>
+        <button><a href="{% url  'create_user' %}">Create User 👤</a></button>
+    </p>
 
-<button><a href="{% url  'user_list' %}">Users</a></button>
-<button><a href="{% url  'create_user' %}">Create User</a></button>
+    {% endblock %}
 
-{% endblock %} 
-    
 </body>
+
 </html>

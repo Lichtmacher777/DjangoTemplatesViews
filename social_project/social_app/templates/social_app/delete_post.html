@@ -1,0 +1,15 @@
+<!-- social_app/templates/social_app/post_confirm_delete.html -->
+{% extends 'social_app/base.html' %}
+
+{% block title %}Delete Post - Social App{% endblock %}
+
+{% block content %}
+    <h1>Delete Post</h1>
+    <p>Are you sure you want to delete the post?</p>
+    <form method="post" >
+        {% csrf_token %}
+        <button type="submit">Delete</button>
+    </form>
+
+    <a href="{% url 'user_posts' username=post.user.username %}">Go back to post list</a>
+{% endblock %}

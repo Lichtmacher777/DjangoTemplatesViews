@@ -16,3 +16,40 @@ Not Found: /
 "GET /app/ HTTP/1.1" 200 647
 "GET /app/create/ HTTP/1.1" 200 1341
 "GET /app/ HTTP/1.1" 200 647
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2222
+"GET /app/ HTTP/1.1" 200 647
+"GET /static/social_app/styles.css HTTP/1.1" 200 636
+Not Found: /favicon.ico
+"GET /app/ HTTP/1.1" 200 647
+"GET /app/users/ HTTP/1.1" 200 23956
+"GET /app/users/fmurphy HTTP/1.1" 200 1095
+"GET /app/users/post/fmurphy/ HTTP/1.1" 200 1172
+"GET /app/posts/ HTTP/1.1" 200 15447
+"GET /app/ HTTP/1.1" 200 647
+"GET /app/create/ HTTP/1.1" 200 1341
+"POST /app/create/ HTTP/1.1" 200 1515
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+Not Found: /favicon.ico
+"GET /app/ HTTP/1.1" 200 855
+"GET /static/social_app/styles.css HTTP/1.1" 304 0
+"GET /app/login/ HTTP/1.1" 200 1303
+"POST /app/login/ HTTP/1.1" 200 1460
+"GET /app/ HTTP/1.1" 200 855
+"GET /app/users/ HTTP/1.1" 200 2412
+"GET /app/users/joannahebert HTTP/1.1" 200 1317
+"GET /app/users/post/joannahebert/ HTTP/1.1" 200 1326
+"GET /app/posts/ HTTP/1.1" 200 654
+"GET /app/ HTTP/1.1" 200 855
+"GET /app/create/ HTTP/1.1" 200 1495
+"GET /app/users/ HTTP/1.1" 200 2412
+"GET /app/users/rogersjennifer HTTP/1.1" 200 1331
+"GET /app/users/rogersjennifer/posts/ HTTP/1.1" 200 855
+"GET /app/posts/rogersjennifer/1/update/ HTTP/1.1" 200 1488
+"GET /app/posts/ HTTP/1.1" 200 654
+"GET /app/ HTTP/1.1" 200 855
