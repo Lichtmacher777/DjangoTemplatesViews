@@ -1,5 +1,11 @@
 # Django Views and Templates I
 
+![Home page](images/home.png)
+
+![Users page](images/users.png)
+
+![Login](images/login.png)
+
 ## Views in Django:
 
 Views are the request handlers in Django. They are responsible for processing the user’s requests and returning an appropriate response to the user. The request that is sent from the client contains information such as the URL, parameters, and data. The view processes this information and performs the necessary actions to create an appropriate response.

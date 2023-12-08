@@ -53,3 +53,239 @@ Not Found: /favicon.ico
 "GET /app/posts/rogersjennifer/1/update/ HTTP/1.1" 200 1488
 "GET /app/posts/ HTTP/1.1" 200 654
 "GET /app/ HTTP/1.1" 200 855
+Watching for file changes with StatReloader
+"GET /app/ HTTP/1.1" 200 855
+"GET /app/ HTTP/1.1" 200 1234
+"GET /app/login/ HTTP/1.1" 200 1682
+"GET /app/ HTTP/1.1" 200 1234
+"GET /app/users/ HTTP/1.1" 200 2791
+"GET /app/ HTTP/1.1" 200 1203
+"GET /app/ HTTP/1.1" 200 1203
+"GET /app/ HTTP/1.1" 200 1203
+"GET /app/ HTTP/1.1" 200 1203
+"GET /app/ HTTP/1.1" 200 1234
+"GET /app/ HTTP/1.1" 200 1234
+"GET /app/ HTTP/1.1" 200 1234
+"GET /app/ HTTP/1.1" 200 1234
+"GET /app/ HTTP/1.1" 200 1234
+"GET /app/users/ HTTP/1.1" 200 2791
+"GET /app/login/ HTTP/1.1" 200 1682
+"GET /app/login/ HTTP/1.1" 200 1682
+"GET /app/ HTTP/1.1" 200 1234
+"GET /app/create/ HTTP/1.1" 200 1874
+"GET /app/create/ HTTP/1.1" 200 1874
+"GET /app/ HTTP/1.1" 200 1390
+"GET /app/ HTTP/1.1" 200 1390
+"GET /app/login/ HTTP/1.1" 200 1838
+"GET /app/login/ HTTP/1.1" 200 1838
+"GET /app/login/ HTTP/1.1" 200 1841
+"GET /app/login/ HTTP/1.1" 200 1841
+"GET /app/login/ HTTP/1.1" 200 1841
+"GET /app/ HTTP/1.1" 200 1393
+"GET /app/ HTTP/1.1" 200 1394
+"GET /app/ HTTP/1.1" 200 1393
+"GET /app/ HTTP/1.1" 200 1394
+"GET /app/users/ HTTP/1.1" 200 2951
+"GET /app/users/ HTTP/1.1" 200 2951
+"GET /app/ HTTP/1.1" 200 1394
+"GET /app/ HTTP/1.1" 200 1393
+"GET /app/ HTTP/1.1" 200 1393
+"GET /app/ HTTP/1.1" 200 1396
+"GET /app/ HTTP/1.1" 200 1393
+"GET /app/ HTTP/1.1" 200 1393
+"GET /app/ HTTP/1.1" 200 1392
+"GET /app/ HTTP/1.1" 200 1392
+"GET /app/ HTTP/1.1" 200 1392
+"GET /app/ HTTP/1.1" 200 1394
+"GET /app/ HTTP/1.1" 200 1394
+"GET /app/ HTTP/1.1" 200 1464
+"GET /app/ HTTP/1.1" 200 1901
+"GET /app/ HTTP/1.1" 200 1901
+"GET /app/login/ HTTP/1.1" 200 2349
+"GET /app/ HTTP/1.1" 200 1901
+"GET /app/users/ HTTP/1.1" 200 3458
+"GET /app/login/ HTTP/1.1" 200 2349
+"GET /app/ HTTP/1.1" 200 1901
+"GET /app/ HTTP/1.1" 200 1904
+"GET /app/ HTTP/1.1" 200 1867
+"GET /app/ HTTP/1.1" 200 1870
+"GET /app/ HTTP/1.1" 200 1870
+"GET /app/ HTTP/1.1" 200 1870
+"GET /app/ HTTP/1.1" 200 1870
+"GET /app/ HTTP/1.1" 200 1870
+"GET /app/ HTTP/1.1" 200 1870
+"GET /app/ HTTP/1.1" 200 1870
+"GET /app/ HTTP/1.1" 200 1870
+"GET /app/ HTTP/1.1" 200 1873
+"GET /app/ HTTP/1.1" 200 1873
+"GET /app/ HTTP/1.1" 200 1873
+"GET /app/ HTTP/1.1" 200 1873
+"GET /app/ HTTP/1.1" 200 1873
+"GET /app/ HTTP/1.1" 200 1873
+"GET /app/ HTTP/1.1" 200 1873
+"GET /app/ HTTP/1.1" 200 1873
+"GET /app/ HTTP/1.1" 200 1884
+"GET /app/ HTTP/1.1" 200 1883
+"GET /app/ HTTP/1.1" 200 1882
+"GET /app/ HTTP/1.1" 200 1882
+"GET /app/ HTTP/1.1" 200 1882
+"GET /app/ HTTP/1.1" 200 1883
+"GET /app/ HTTP/1.1" 200 1883
+"GET /app/login/ HTTP/1.1" 200 2331
+"GET /app/ HTTP/1.1" 200 1883
+"GET /app/users/ HTTP/1.1" 200 3440
+"GET /app/users/ HTTP/1.1" 200 3448
+"GET /app/users/ HTTP/1.1" 200 3440
+"GET /app/users/ HTTP/1.1" 200 3440
+"GET /app/users/ HTTP/1.1" 200 3441
+"GET /app/ HTTP/1.1" 200 1884
+"GET /app/ HTTP/1.1" 200 1884
+"GET /app/ HTTP/1.1" 200 1884
+"GET /app/ HTTP/1.1" 200 1884
+"GET /app/ HTTP/1.1" 200 1887
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/login/ HTTP/1.1" 200 2408
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/ HTTP/1.1" 200 1960
+Watching for file changes with StatReloader
+"GET /app/ HTTP/1.1" 200 1960
+"GET /app/ HTTP/1.1" 200 1992
+"GET /app/ HTTP/1.1" 200 1992
+"GET /app/ HTTP/1.1" 200 1970
+"GET /app/ HTTP/1.1" 200 2064
+Not Found: /favicon.ico
+"GET /app/ HTTP/1.1" 200 2089
+"GET /app/ HTTP/1.1" 200 2089
+"GET /app/ HTTP/1.1" 200 2089
+"GET /app/ HTTP/1.1" 200 2089
+"GET /app/ HTTP/1.1" 200 2089
+"GET /app/ HTTP/1.1" 200 2089
+"GET /app/ HTTP/1.1" 200 2142
+"GET /app/create/ HTTP/1.1" 200 2685
+"GET /app/users/ HTTP/1.1" 200 3602
+"GET /app/ HTTP/1.1" 200 2142
+"GET /app/ HTTP/1.1" 200 2142
+"GET /app/ HTTP/1.1" 200 2142
+"GET /app/ HTTP/1.1" 200 2142
+"GET /app/ HTTP/1.1" 200 2142
+"GET /app/ HTTP/1.1" 200 2142
+"GET /app/ HTTP/1.1" 200 2142
+"GET /app/ HTTP/1.1" 200 2142
+"GET /app/ HTTP/1.1" 200 2183
+"GET /app/ HTTP/1.1" 200 2183
+"GET /app/ HTTP/1.1" 200 2178
+"GET /app/ HTTP/1.1" 200 2178
+"GET /app/ HTTP/1.1" 200 2183
+"GET /app/ HTTP/1.1" 200 2183
+"GET /app/ HTTP/1.1" 200 2183
+"GET /app/ HTTP/1.1" 200 2186
+"GET /app/ HTTP/1.1" 200 2183
+"GET /app/ HTTP/1.1" 200 2189
+"GET /app/ HTTP/1.1" 200 2189
+"GET /app/ HTTP/1.1" 200 2190
+"GET /app/ HTTP/1.1" 200 2190
+"GET /app/ HTTP/1.1" 200 2178
+"GET /app/ HTTP/1.1" 200 2182
+"GET /app/ HTTP/1.1" 200 2185
+"GET /app/ HTTP/1.1" 200 2186
+"GET /app/users/ HTTP/1.1" 200 3646
+"GET /app/users/xwaters HTTP/1.1" 200 2503
+"GET /app/users/post/xwaters/ HTTP/1.1" 200 2560
+"GET /app/posts/ HTTP/1.1" 200 1888
+"GET /app/ HTTP/1.1" 200 2186
+"GET /app/create/ HTTP/1.1" 200 2729
+"GET /app/users/ HTTP/1.1" 200 3646
+"GET /app/users/masseyrandy HTTP/1.1" 200 2596
+"GET /app/users/masseyrandy/posts/ HTTP/1.1" 200 472
+Internal Server Error: /app/users/masseyrandy/posts/
+Traceback (most recent call last):
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/home/dci-student/.local/lib/python3.11/site-packages/django/template/base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 7: 'static'. Did you forget to register or load this tag?
+"GET /app/users/masseyrandy/posts/ HTTP/1.1" 500 165168
+"GET /app/users/masseyrandy/posts/ HTTP/1.1" 200 1888
+"GET /app/users/masseyrandy/posts/ HTTP/1.1" 200 472
+"GET /app/ HTTP/1.1" 200 2186
+"GET /app/ HTTP/1.1" 200 2186
+"GET /app/ HTTP/1.1" 200 2186
+"GET /app/ HTTP/1.1" 200 2186
+"GET /app/ HTTP/1.1" 200 2186
+"GET /app/ HTTP/1.1" 200 2186
+"GET /app/users/ HTTP/1.1" 200 3646
+"GET /app/ HTTP/1.1" 200 2186
+"GET /app/ HTTP/1.1" 200 2186
+"GET /app/ HTTP/1.1" 200 2213
+"GET /app/ HTTP/1.1" 200 2213
+"GET /app/users/ HTTP/1.1" 200 3673
+Not Found: /favicon.ico
+"GET /app/users/john48 HTTP/1.1" 200 2544
+"GET /app/users/john48/posts/ HTTP/1.1" 200 457
+"GET /app/ HTTP/1.1" 200 2213
+"GET /app/create/ HTTP/1.1" 200 2756
+"GET /app/login/ HTTP/1.1" 200 2564

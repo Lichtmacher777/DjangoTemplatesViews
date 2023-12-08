@@ -11,11 +11,12 @@ body {
 }
 
 h1 {
-    color: #af2f2f;
+    color: #ffffff;
+    
 }
 
 p {
-    color: #522121;
+    color: #21522f;
 }
 
 .scroll-container {
@@ -34,7 +35,7 @@ li {
 }
 
 a {
-    color: #28578a;
+    color: #fdfdfd;
     text-decoration: none;
 }
 
