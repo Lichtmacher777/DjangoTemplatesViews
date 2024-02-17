@@ -69,22 +69,22 @@ WSGI_APPLICATION = 'social_project.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    }
-}
 # DATABASES = {
 #     'default': {
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#         'NAME': 'social_db',
-#         'USER': 'postgres',
-#         'PASSWORD': 'postgres',
-#         'HOST': 'localhost',
-#         'PORT': '5432',
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
 #     }
 # }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'railway',
+        'USER': 'postgres',
+        'PASSWORD': 'Eg3Ef2FaDBbBFaaCd5121EDC-6BGB5c5',
+        'HOST': 'postgresql://postgres:Eg3Ef2FaDBbBFaaCd5121EDC-6BGB5c5@roundhouse.proxy.rlwy.net:17162/railway',
+        'PORT': '17162',
+    }
+}
 # if os.environ.get('GITHUB_WORKFLOW'):
 #     DATABASES = {
 #         'default': {
