@@ -77,30 +77,30 @@ WSGI_APPLICATION = 'social_project.wsgi.application'
 # }
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'railway',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'social_db',
         'USER': 'postgres',
-        'PASSWORD': 'Eg3Ef2FaDBbBFaaCd5121EDC-6BGB5c5',
-        'HOST': 'roundhouse.proxy.rlwy.net',
-        'PORT': '17162',
+        'PASSWORD': 'postgres',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
-# if os.environ.get('GITHUB_WORKFLOW'):
-#     DATABASES = {
-#         'default': {
+if os.environ.get('GITHUB_WORKFLOW'):
+    DATABASES = {
+        'default': {
 
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
-#         'NAME': 'social_db',
+        'NAME': 'social_db',
 
-#         'USER': 'postgres',
+        'USER': 'postgres',
 
-#         'PASSWORD': 'postgres',
+        'PASSWORD': 'postgres',
 
-#         'HOST': 'localhost',
+        'HOST': 'localhost',
 
-#         'PORT': '5432',}
-#     }
+        'PORT': '5432',}
+    }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
