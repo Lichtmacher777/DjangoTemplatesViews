@@ -85,6 +85,7 @@ DATABASES = {
         'PORT': '5432',
     }
 }
+
 if os.environ.get('GITHUB_WORKFLOW'):
     DATABASES = {
         'default': {
